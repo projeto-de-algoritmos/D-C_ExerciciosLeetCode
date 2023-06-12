@@ -13,14 +13,14 @@
 Este projeto se trata da resolução de 4 exercícios abordando o tema de Dividir & Conquistar (D&C). Os exercícios foram retirados do site [LeetCode](https://leetcode.com/tag/divide-and-conquer/).
 
 ### Exercício 1
-**Nome:** <br>
-**Código:** [ACESSO]()<br>
-**Página LeetCode:** [ACESSO]()<br>
+**Nome:** Número de Maneiras de Reordenar a Matriz para obter o mesmo BST<br>
+**Código:** [ACESSO](exercicios/numManeiras/)<br>
+**Página LeetCode:** [ACESSO](https://leetcode.com/problems/number-of-ways-to-reorder-array-to-get-same-bst/)<br>
 
 ### Exercício 2
-**Nome:** <br>
-**Código:** [ACESSO]()<br>
-**Página LeetCode:** [ACESSO]()<br>
+**Nome:** Número de Pares Satisfazendo a Desigualdade<br>
+**Código:** [ACESSO](exercicios/numPares/)<br>
+**Página LeetCode:** [ACESSO](https://leetcode.com/problems/number-of-pairs-satisfying-inequality/)<br>
 
 ### Exercício 3
 **Nome:** <br>
