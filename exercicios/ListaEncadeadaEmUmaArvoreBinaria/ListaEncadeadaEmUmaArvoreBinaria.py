@@ -35,3 +35,15 @@ class Solution:
         node.right = self.sortedListToBST(slow.next)
 
         return node
+    
+"""
+Este código implementa a conversão de uma lista 
+ordenada em uma árvore de busca binária. A função 
+sortedListToBST recebe o head da lista como entrada. 
+O algoritmo utiliza a técnica do ponteiro rápido e 
+lento para encontrar o ponto médio da lista, dividindo-a 
+em duas metades. Em seguida, é criado um nó da árvore com 
+o valor do ponto médio. A função é chamada recursivamente 
+para construir as subárvores esquerda e direita, e o nó é 
+retornado como raiz da árvore resultante.
+"""
