@@ -1,4 +1,4 @@
-# [Converter uma lista ordenada em uma árvore de busca binária](https://leetcode.com/problems/k-closest-points-to-origin/)
+# [K Pontos Mais Próximos da Origem](https://leetcode.com/problems/k-closest-points-to-origin/)
 
 **Dificuldade: Média**
 

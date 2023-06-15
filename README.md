@@ -23,14 +23,14 @@ Este projeto se trata da resolução de 4 exercícios abordando o tema de Dividi
 **Página LeetCode:** [ACESSO](https://leetcode.com/problems/number-of-pairs-satisfying-inequality/)<br>
 
 ### Exercício 3
-**Nome:** <br>
-**Código:** [ACESSO]()<br>
-**Página LeetCode:** [ACESSO]()<br>
+**Nome:** Converter uma lista ordenada em uma árvore de busca binária<br>
+**Código:** [ACESSO](exercicios/ListaEncadeadaEmUmaArvoreBinaria/)<br>
+**Página LeetCode:** [ACESSO](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/)<br>
 
 ### Exercício 4
-**Nome:** <br>
-**Código:** [ACESSO]()<br>
-**Página LeetCode:** [ACESSO]()<br>
+**Nome:** K Pontos Mais Próximos da Origem<br>
+**Código:** [ACESSO](exercicios/KPontosMaisProximosDaOrigem/)<br>
+**Página LeetCode:** [ACESSO](https://leetcode.com/problems/k-closest-points-to-origin/description/)<br>
 
 
 ## Screenshots
